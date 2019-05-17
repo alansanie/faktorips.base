@@ -20,7 +20,7 @@
 			<!-- Update the product Build ID and version in the about text -->
 			<plugin>
 				<artifactId>maven-antrun-plugin</artifactId>
-				<version>1.6</version>
+				<version>1.5</version>
 				<executions>
 
 					<!-- Change the plugin.properties -->
